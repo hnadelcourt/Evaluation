@@ -1,0 +1,13 @@
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.exe
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.deps.json
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.runtimeconfig.json
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.runtimeconfig.dev.json
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.dll
+C:\Users\arnau\source\repos\Evaluation\bin\Debug\netcoreapp3.1\Evaluation.pdb
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.AssemblyInfoInputs.cache
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.AssemblyInfo.cs
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.dll
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.pdb
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.genruntimeconfig.cache
+C:\Users\arnau\source\repos\Evaluation\obj\Debug\netcoreapp3.1\Evaluation.csprojAssemblyReference.cache
